@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @shir0tetsuo
-- 👀 I’m interested in NodeJS, Python, Internet Protocols, ???
+# You have stumbled upon a secret area.
+## - 🚷 Only 0.000001% of people read this readme.
+## - 🍍 Pineapple does belong on pizza.
 
 <!---
 shir0tetsuo/shir0tetsuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

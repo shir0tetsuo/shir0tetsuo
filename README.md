@@ -1,6 +1,5 @@
-# You have stumbled upon a secret area.
-## - 🚷 Only 0.000001% of people read this readme.
-## - 🍍 Pineapple does belong on pizza.
+## - 🚷 0.000001% sanity.
+## - 🍍 99.999999% pineapple.
 
 <!---
 shir0tetsuo/shir0tetsuo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

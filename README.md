@@ -6,3 +6,8 @@ shir0tetsuo/shir0tetsuo is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 This is the secret.
 --->
+```python
+responses = ["I'm fine", "Just tired", "I'm alright", "I'm OK", "Surviving"]
+response = random.choice(responses)
+print(response)
+```
